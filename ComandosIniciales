@@ -1,0 +1,8 @@
+Primero se debe crear el repositorio en GitHUb y despues en tu PC hacer el siguiente comando dentor del proyecto:
+git init
+Si quieres mirar el contenido que subirás:
+git status
+para subirlo en memoria y prepararlos para el commit:
+git add .
+hacer un commit:
+git commit -m ""
