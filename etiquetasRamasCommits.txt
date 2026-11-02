@@ -1,0 +1,27 @@
+feat: (Feature)
+Significado: Se usa cuando agregas una nueva funcionalidad al proyecto.
+Ejemplo: feat: agregar botón de inicio de sesión con Google
+
+fix: (Fix)
+Significado: Se usa cuando corriges un error o bug en el código.
+Ejemplo: fix: corregir error que cerraba la app al guardar
+
+refactor: (Refactor)
+Significado: Se usa cuando cambias la estructura o la forma del código (para hacerlo más limpio, rápido o legible) pero sin cambiar lo que hace el programa. No agregas funciones nuevas ni arreglas bugs, solo "ordena la casa".
+Ejemplo: refactor: simplificar la función de cálculo de impuestos
+
+docs: (Documentation)
+Significado: Cambios solo en la documentación (como el archivo README.md).
+Ejemplo: docs: actualizar instrucciones de instalación
+
+style: (Style)
+Significado: Cambios que no afectan el significado del código (espacios, puntos y comas, formato). No es lo mismo que el diseño visual de la app, sino el formato del texto del código.
+Ejemplo: style: aplicar formato a los archivos de Python
+
+test: (Test)
+Significado: Cuando agregas o modificas pruebas automáticas (testing).
+Ejemplo: test: agregar pruebas para la base de datos
+
+chore: (Chore / Tareas)
+Significado: Tareas menores o de mantenimiento que no afectan el código de la aplicación en sí (actualizar librerías, cambiar la configuración de Git, etc.).
+Ejemplo: chore: actualizar versión de PyQt6
