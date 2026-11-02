@@ -1,0 +1,8 @@
+Ejemplo realista
+Supón que trabajas con un equipo de 4 desarrolladores. Todos comparten la rama main y se organizan así:
+
+Cada uno crea una rama feat/nueva-funcionalidad y hace push el mismo día.
+Cada PR se revisa rápidamente (máximo 30 minutos desde que se abre).
+Al hacer merge, los tests corren automáticamente.
+Si todo va bien, se despliega en staging automáticamente.
+En este contexto, no hay ramas develop, ni release, ni semanas de trabajo sin integración.
